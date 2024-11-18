@@ -131,5 +131,11 @@ The gameplay revolves around dynamic interactions between the player and zombies
 - **Zombie-Player Interaction**: Zombies track and attack the player when they are within range. The player can evade or fight back by using movement techniques like dashing or jumping.
 - **Spawner Mechanics**: Zombies are spawned at fixed intervals, and the player has the option to destroy all zombies or return them to the spawn point if needed.
 
-## Conclusion
+## Summary
 This dynamic game system creates an exciting environment where zombies chase and attack the player, while the player uses movement mechanics (like jumping and dashing) to evade danger. Health and stamina management are essential for survival, and the camera follows the player’s actions for an immersive experience. The spawner ensures a constant flow of zombies, challenging the player to survive by managing resources effectively.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+For questions or contributions, feel free to open an issue or reach out via the [GitHub repository](https://github.com/EvilSasu/Shooter).
