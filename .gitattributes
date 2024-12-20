@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Wyklucz ShaderLab z analizy statystyk języków
+*.shader linguist-vendored
+*.cginc linguist-vendored
